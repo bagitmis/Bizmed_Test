@@ -18,4 +18,11 @@ object Form1: TForm1
     Height = 15
     Caption = '5353BAG_bizmed'
   end
+  object Label2: TLabel
+    Left = 296
+    Top = 296
+    Width = 61
+    Height = 15
+    Caption = 'barnch Test'
+  end
 end
